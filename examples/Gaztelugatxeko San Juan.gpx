@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" version="1.1" creator="Garmin Waypoint Creator" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionv1.xsd">
+  <wpt lat="43.44725847244263" lon="-2.7850341796875">
+    <name>Gaztelugatxeko San Juan</name>
+    <desc>&lt;h2&gt;Gaztelugatxeko San Juan&lt;/h2&gt;
+&lt;p&gt;
+Kleine Felseninsel mit einer winzigen Kapelle aus dem 10. Jahrhundert, zu der 200 Steinstufen führen.
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://maps.app.goo.gl/1H5sJZMFLnt3BrXn6&quot; target=&quot;_blank&quot;&gt;https://maps.app.goo.gl/1H5sJZMFLnt3BrXn6&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://de.wikipedia.org/wiki/Gaztelugatxe&quot; target=&quot;_blank&quot;&gt;https://de.wikipedia.org/wiki/Gaztelugatxe&lt;/a&gt;&lt;/p&gt;
+</desc>
+    <link href="https://maps.app.goo.gl/1H5sJZMFLnt3BrXn6"/>
+    <link href="https://de.wikipedia.org/wiki/Gaztelugatxe"/>
+    <sym>Scenic Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
+        <ctx:CreationTime>2025-08-15T13:41:54.736798Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+</gpx>
