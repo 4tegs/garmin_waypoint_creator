@@ -16,3 +16,18 @@ In order to display the text of the waypoints later ideally in websites or in Or
 
 ## Garmin Icons
 I found the provided icons in the depths of the internet. I'm not sure about the copyright.
+
+## Use
+
+Create your waypoint using "Garmin Waypoint Creator"
+![Create your Waypoint](images/garmin_waypoint_creator.jpg)
+
+Waypoint after you imported it in Basecamp.
+![Waypoint after you imported it in Basecamp.](images/basecamp.jpg)
+
+Look at the waypoint in case you use "gpx_2_html"
+![Look at the waypoint in case you use "gpx_2_html"](images/website.jpg)
+
+Look at the waypoint in case you use "gpx_2_kml_4_orga"
+![Look at the waypoint in case you use "gpx_2_kml_4_orga"](images/organicmaps.jpg)
+
